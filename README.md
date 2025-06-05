@@ -2,7 +2,7 @@
 
 # 🚆 RailBooker – Railway Reservation System
 
-**RailBooker** is a dynamic web-based platform that allows users to search trains, book tickets, and manage their travel seamlessly. Designed for ease of use, it includes a dedicated admin interface for managing train data efficiently.
+**RailBooker** is a PHP & MySQL-based web app for railway reservations. Users can view trains, book tickets, and manage profiles. Admins can add and manage trains via a dedicated admin panel. With secure login, responsive UI, and full CRUD functionality, it's an ideal project for learning full-stack web development.
 
 ---
 
@@ -38,7 +38,6 @@
 | Server     | Apache (via XAMPP/WAMP)    |
 
 ---
-
 
 ## 🚀 Getting Started
 
