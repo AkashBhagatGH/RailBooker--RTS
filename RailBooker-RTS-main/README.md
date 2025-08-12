@@ -2,12 +2,6 @@
 
 **RailBooker** is a web-based Railway Reservation System that allows users to view train information, book tickets, and manage their profiles. The system also includes an admin interface to manage train listings.
 
-🔗 **Live Site**: [http://railbooker.devbyabhishek.infinityfreeapp.com/](http://railbooker.devbyabhishek.infinityfreeapp.com/)  
-📂 **GitHub Repository**: [https://github.com/Abhishek-soni6904/RailBooker-RTS](https://github.com/Abhishek-soni6904/RailBooker-RTS)  
-🗝️ **Admin Credentials**: ```gmail: admin@gmail.com password: 123```
-
----
-
 ## ✨ Features
 
 - 🔐 **User Authentication** – Secure login and logout
@@ -114,15 +108,3 @@
 │   ├── nav.php, footer.php
 │   └── *_*.php            # Logic handlers
 ```
-
----
-
-## Contact📩
-
-For any queries or support, feel free to reach out:
-
-- **👤 Name**: Abhishek Soni
-- **📧 Email**: abhisheks6904@gmail.com
-- **🔗 GitHub**: [Abhishek-soni6904](https://github.com/Abhishek-soni6904)
-- **📸 Instagram**: [Instagram Profile](https://www.instagram.com/_abhishek._.soni_/)
-- **💼 LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/abhishek-soni-662028331/)
